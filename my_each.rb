@@ -1,5 +1,5 @@
 def my_each # put argument(s) here
-  
+
   end
 
 def my_each(arr)
